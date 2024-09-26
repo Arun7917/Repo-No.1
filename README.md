@@ -3,4 +3,4 @@ Starting  my first repo as a beginner
 <br>
 This would be my first commit inn readme file by Arun Saini
 <br> 
-hello how are you?
+hello
